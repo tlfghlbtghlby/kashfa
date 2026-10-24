@@ -1,0 +1,8 @@
+{
+  "name": "Remix حضور وانصراف كشافة العباس",
+  "description": "تطبيق مخصص لتسجيل حضور وانصراف أعضاء كشافة العباس (ع) ومتابعة الفئات العمرية (البراعم، الأشبال، الكشافة).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
